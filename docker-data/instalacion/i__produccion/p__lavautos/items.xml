@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tablas>
+  <items>
+    <fila>
+      <item>1</item>
+      <nombre>Raiz PROYECTO</nombre>
+    </fila>
+    <fila>
+      <item>2</item>
+      <nombre>Inicio</nombre>
+    </fila>
+    <fila>
+      <item>6575</item>
+      <nombre>Administrador Usuarios</nombre>
+    </fila>
+    <fila>
+      <item>6576</item>
+      <nombre>Cambiar Clave</nombre>
+    </fila>
+    <fila>
+      <item>6577</item>
+      <nombre>Seguridad</nombre>
+    </fila>
+    <fila>
+      <item>6578</item>
+      <nombre>Parametrización</nombre>
+    </fila>
+    <fila>
+      <item>6579</item>
+      <nombre>Inicio del Proceso</nombre>
+    </fila>
+    <fila>
+      <item>6580</item>
+      <nombre>Perfiles</nombre>
+    </fila>
+    <fila>
+      <item>6582</item>
+      <nombre>Empleados</nombre>
+    </fila>
+    <fila>
+      <item>6583</item>
+      <nombre>Descuentos</nombre>
+    </fila>
+    <fila>
+      <item>6584</item>
+      <nombre>Estado Servicios</nombre>
+    </fila>
+    <fila>
+      <item>6585</item>
+      <nombre>Estado Turnos</nombre>
+    </fila>
+    <fila>
+      <item>6586</item>
+      <nombre>Recepción</nombre>
+    </fila>
+    <fila>
+      <item>6587</item>
+      <nombre>Reportes</nombre>
+    </fila>
+    <fila>
+      <item>6588</item>
+      <nombre>Numerar Turnos</nombre>
+    </fila>
+    <fila>
+      <item>6589</item>
+      <nombre>Tipo Vehículos</nombre>
+    </fila>
+    <fila>
+      <item>6590</item>
+      <nombre>Servicios y Promociones</nombre>
+    </fila>
+    <fila>
+      <item>6591</item>
+      <nombre>Servicios x Tipo Vehículo</nombre>
+    </fila>
+    <fila>
+      <item>6602</item>
+      <nombre>Recepción Vehículos - Día</nombre>
+    </fila>
+    <fila>
+      <item>6604</item>
+      <nombre>Servicios x Fechas</nombre>
+    </fila>
+    <fila>
+      <item>6607</item>
+      <nombre>Prestamos y Liquidación</nombre>
+    </fila>
+    <fila>
+      <item>6608</item>
+      <nombre>Movimientos de Caja</nombre>
+    </fila>
+    <fila>
+      <item>6609</item>
+      <nombre>Estado Pays</nombre>
+    </fila>
+    <fila>
+      <item>6610</item>
+      <nombre>Estado Markers</nombre>
+    </fila>
+    <fila>
+      <item>6611</item>
+      <nombre>Pays</nombre>
+    </fila>
+    <fila>
+      <item>6612</item>
+      <nombre>Tipo Cuentas</nombre>
+    </fila>
+    <fila>
+      <item>6613</item>
+      <nombre>numerar markers</nombre>
+    </fila>
+    <fila>
+      <item>6615</item>
+      <nombre>Tipo Cuenta Pays</nombre>
+    </fila>
+    <fila>
+      <item>6616</item>
+      <nombre>cuentas</nombre>
+    </fila>
+    <fila>
+      <item>6617</item>
+      <nombre>Recepcion Cuentas - Dia</nombre>
+    </fila>
+    <fila>
+      <item>6618</item>
+      <nombre>pay header</nombre>
+    </fila>
+    <fila>
+      <item>6619</item>
+      <nombre>pay concept</nombre>
+    </fila>
+    <fila>
+      <item>6620</item>
+      <nombre>Creditos</nombre>
+    </fila>
+    <fila>
+      <item>6621</item>
+      <nombre>contacto_credits</nombre>
+    </fila>
+  </items>
+</tablas>
